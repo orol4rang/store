@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>EUROX 10L 상세 페이지</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+
+<div class="container mt-3">
+  <h2>EUROX 10L 상세 페이지</h2>
+  
+  <!-- 이미지 슬라이더 -->
+  	<div id="carouselExampleControls" class="carousel slide" data-ride="">
+  		<div class="">
+  			<img src="" alt="" class="">
+  		</div>
+
+  		<a href="#carouselExampleControls" role="" data-slide=""></a>
+
+  	</div>
+
+
+  
+  <!-- 상품 정보 -->
+  	<div class="">
+  		<h3>상품명: EUROX 요소수 - 용량:10리터</h3>
+  		<p>가격: 10,000원</p>
+  		<p>프리이엄 1등 요소수.</p>
+  	</div>
+
+  	<!-- 상품 설명 -->
+  	<div class="">
+  		<h4>상품 설명:</h4>
+  		<p>여기에 상품에 대한 설명을 추가하실 수 있습니다. 기능, 특징, 사용 방법에 관한 내용 등을 작성하시면 좋습니다.</p>
+  		
+  		
+  		
+
+      <!-- 구매 버튼 -->
+      <a href="https://example.com/purchase" class="btn btn-primary">구매 페이지로 가기</a>
+    </div>
+
+  </body>
+</html>
